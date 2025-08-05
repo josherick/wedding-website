@@ -47,6 +47,22 @@ p {
 	font-size: 20px;
 }
 
+a {
+	color: #4E78A2;
+}
+
+ul {
+	font-family: "Nanum Myeongjo", serif;
+	font-weight: 200;
+	font-style: normal;
+	text-transform: none;
+	text-decoration: none;
+	color: #4E78A2;
+	letter-spacing: 0px;
+	font-size: 20px;
+}
+
+
 .text-body {
 	display: flex;
 	justify-content: center;
