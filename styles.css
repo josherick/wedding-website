@@ -88,6 +88,7 @@ p {
 
 .desktop-nav-item {
 	padding: 8px 8px 6px;
+	text-align: center;
 
 	font-size: 16px;
 	letter-spacing: 2px;
@@ -286,6 +287,13 @@ p {
 }
 
 @media (max-width: 900px) {
+
+	.desktop-nav {
+		flex-direction: column;
+		align-items: center;
+		gap: 15px;
+	}
+
 
 	.names-header {
 		font-size: 48px;
