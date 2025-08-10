@@ -300,6 +300,8 @@ ul {
 	border-bottom-color: #4E78A2;
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
+
+	margin-top: 24px;
 }
 
 .footer-date {
@@ -311,12 +313,12 @@ ul {
 
 .footer-contact {
 	font-size: 15px;
-	padding: 16px 50px 0px;
+	padding: 0px 50px 16px;
 }
 
 .footer-acknowledgements {
 	font-size: 12px;
-	padding: 16px 50px 0px;
+	padding: 0px 50px 16px;
 }
 
 @media (max-width: 900px) {
