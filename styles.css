@@ -204,19 +204,6 @@ ul {
 	margin: 60px 0;
 }
 
-.story-header {
-	font-size: 36px;
-	letter-spacing: 3px;
-	text-align: center;
-}
-
-.story-subheader {
-	font-size: 15px;
-	letter-spacing: 3px;
-	text-align: center;
-	margin-bottom: 50px;
-}
-
 .story-entry {
 	margin: 0 auto;
 	display: flex;
