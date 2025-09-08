@@ -66,6 +66,14 @@ ul {
 	font-size: 20px;
 }
 
+li {
+	margin: 4px 0;
+}
+
+li.sub-bullet {
+	margin-left: 32px;
+}
+
 
 .text-body {
 	display: flex;
