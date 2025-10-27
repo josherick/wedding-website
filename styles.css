@@ -364,6 +364,11 @@ li.sub-bullet {
 		width: auto;
 	}
 
+	.text-body-section.form-embed {
+		margin: 0 50px;
+		width: 90%;
+	}
+
 	.cover-image {
 		padding: 0 40px;
 	}
@@ -441,6 +446,11 @@ li.sub-bullet {
 	.text-body-section {
 		margin: 0 25px;
 		width: auto;
+	}
+
+	.text-body-section.form-embed {
+		margin: 0 25px;
+		width: 90%;
 	}
 
 	.title-and-nav {
