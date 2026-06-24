@@ -192,6 +192,10 @@ li.sub-bullet {
 	margin: 20px 0;
 }
 
+.venue-event {
+	padding-bottom: 40px;
+}
+
 .event-title {
 	font-size: 30px;
 	letter-spacing: 3px;
@@ -211,6 +215,10 @@ li.sub-bullet {
 
 .event-description {
 	text-align: center;
+}
+
+.text-body-section h2:first-child {
+	margin-top: 0;
 }
 
 .centered {
