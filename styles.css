@@ -35,6 +35,13 @@ h2 {
 	margin: 32px 0 8px;
 }
 
+h3 {
+	font-size: 23px;
+	letter-spacing: 0px;
+	text-transform: none;
+	margin: 24px 0 8px;
+}
+
 p {
 	margin: 8px 0px;
 	font-family: "Nanum Myeongjo", serif;
@@ -458,6 +465,13 @@ li.sub-bullet {
 		letter-spacing: 0px;
 		text-transform: none;
 		margin: 32px 0 8px;
+	}
+
+	h3 {
+		font-size: 18px;
+		letter-spacing: 0px;
+		text-transform: none;
+		margin: 24px 0 8px;
 	}
 
 	p {
