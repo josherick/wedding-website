@@ -221,6 +221,10 @@ li.sub-bullet {
 	margin-top: 0;
 }
 
+.left-aligned {
+	text-align: left;
+}
+
 .centered {
 	text-align: center;
 }
